@@ -13,3 +13,7 @@ This project shows the **real-time hours, minutes, and seconds**, updating every
 - **HTML5** – structure  
 - **CSS3** – styling  
 - **JavaScript (ES6)** – functionality  
+
+OverView 
+
+<img width="1791" height="840" alt="Screenshot 2025-08-21 143913" src="https://github.com/user-attachments/assets/21f45fd4-39b8-44b0-828e-5f7e6346392d" />
